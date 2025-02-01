@@ -7,8 +7,7 @@ This project demonstrates various iterative methods for approximating functions:
 4. Newton-Raphson for f(x) = cos(x) - x = 0
 
 Requirements:
-- Python (standard library)
-- import math (part of the standard library)
+Refer to requirements.txt for requirements
 
 Installation:
 1. Clone the repo:
