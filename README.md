@@ -11,7 +11,7 @@ Refer to requirements.txt for requirements
 
 Installation:
 1. Clone the repo:
-   git clone [https://github.com/yourusername/iterative-methods.git](https://github.com/Carinna-Roebuck/cot-4500-Pro1.git)
+   git clone (https://github.com/Carinna-Roebuck/cot-4500-Pro1.git)
    cd iterative-methods
 
 2. Install dependencies:
